@@ -20,7 +20,7 @@ module.exports = function(context) {
 
             if (nodeType === "RegularExpression") {
                 if (!safe(nodeValue)) {
-                    context.report(node, "Unsafe Regular Expression (https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS)");
+                    context.report(node, "Unsafe Regular Expression");
                 }
             }
         }

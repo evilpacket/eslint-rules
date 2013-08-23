@@ -1,0 +1,22 @@
+{
+  "name": "eslint-rules",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "security"
+  ],
+  "author": "Adam Baldwin",
+  "license": "MIT",
+  "dependencies": {
+    "safe-regex": "0.0.0"
+  }
+}

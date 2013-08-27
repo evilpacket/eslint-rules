@@ -1,5 +1,6 @@
 {
     "rules": {
-        "no-unsafe-regex": 1
+        "no-unsafe-regex": 1,
+        "no-csrf-before-method-override": 1
     }
 }

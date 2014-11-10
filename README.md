@@ -5,5 +5,5 @@ Collection of various eslint-rules
 
 # How to use
 ```
-eslint -c config.json --rulesdir . [file.js] [dir]
+eslint --reset -c config.json --rulesdir . [file.js] [dir]
 ```

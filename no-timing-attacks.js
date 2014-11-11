@@ -1,5 +1,5 @@
 /**
- * Check if the regex is evil or not using the safe-regex module
+ * Looks for potential hot spot string comparisons
  * @author Adam Baldwin 
  */
 

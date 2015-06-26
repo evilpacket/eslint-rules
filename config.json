@@ -2,7 +2,7 @@
     "rules": {
         "no-unsafe-regex": 0,
         "no-timing-attacks": 0,
-		"no-self-signed-cert-node": 0,
+	"no-self-signed-cert-node": 0,
         "no-self-signed-cert-mongoose": 0
     }
 }
